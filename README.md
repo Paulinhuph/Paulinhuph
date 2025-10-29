@@ -11,7 +11,6 @@
 - Lógica de programação  
 - Fundamentos de Python  
 - Git e GitHub  
-- Modelagem de dados (em breve na faculdade!)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
