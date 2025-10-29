@@ -4,7 +4,7 @@
 💻 Focado em **Python**, **lógica de programação** e **projetos iniciais práticos**  
 🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="199">
 
 
 ## 👨‍💻 O que estou aprendendo
