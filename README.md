@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
 
 
-## 🌱 O que estou aprendendo
+## 👨‍💻 O que estou aprendendo
 - Lógica de programação  
 - Fundamentos de Python  
 - Git e GitHub  
@@ -17,8 +17,8 @@
 
 
 ## 🧠 Um pouco sobre mim
-Apaixonado por programação, literatura, biologia, música (especialmente violino) e musculação, busco sempre o equilíbrio entre corpo, mente e criação.
-Acredito que a lógica do código pode conversar com a harmonia das notas musicais, e que cada linha escrita é como um pequeno experimento — parte arte, parte ciência.
+Apaixonado por programação, literatura, biologia, música (especialmente clássica) e musculação, busco sempre o equilíbrio entre corpo, mente e criação.
+Acredito que a lógica do código pode conversar com a harmonia, e que cada linha escrita é como um pequeno experimento — parte arte, parte ciência.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&center=true&vCenter=true&lines=Olá!+Sou+Paulo+Henrique;Estudante+de+ADS;Apaixonado+por+Python+🐍)](https://git.io/typing-svg)
 
