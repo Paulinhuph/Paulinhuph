@@ -18,4 +18,5 @@
 Curioso por natureza, gosto de entender como as coisas funcionam e transformar ideias em código.  
 Estou no início da jornada, mas com muita vontade de crescer como desenvolvedor e contribuir com projetos reais.
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&center=true&vCenter=true&lines=Olá!+Sou+Paulo+Henrique;Estudante+de+ADS;Apaixonado+por+Python+🐍)](https://git.io/typing-svg)
+
