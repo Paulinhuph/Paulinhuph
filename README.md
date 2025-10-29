@@ -1,7 +1,7 @@
 # Hello, I'm Paulo Henrique!
-🎓 Student of Systems Analysis and Development
-💻 Focused on Python, programming logic, and hands-on beginner projects
-🚀 Building my portfolio on GitHub and growing with every challenge
+- 🎓 Student of Systems Analysis and Development
+- 💻 Focused on Python, programming logic, and hands-on beginner projects
+- 🚀 Building my portfolio on GitHub and growing with every challenge
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
 
