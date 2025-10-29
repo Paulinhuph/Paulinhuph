@@ -4,7 +4,8 @@
 💻 Focado em **Python**, **lógica de programação** e **projetos iniciais práticos**  
 🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
 
----
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+
 
 ## 🌱 O que estou aprendendo
 - Lógica de programação  
@@ -17,8 +18,8 @@
 
 
 ## 🧠 Um pouco sobre mim
-Curioso por natureza, gosto de entender como as coisas funcionam e transformar ideias em código.  
-Estou no início da jornada, mas com muita vontade de crescer como desenvolvedor e contribuir com projetos reais.
+Apaixonado por programação, literatura, biologia, música (especialmente violino) e musculação, busco sempre o equilíbrio entre corpo, mente e criação.
+Acredito que a lógica do código pode conversar com a harmonia das notas musicais, e que cada linha escrita é como um pequeno experimento — parte arte, parte ciência.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&center=true&vCenter=true&lines=Olá!+Sou+Paulo+Henrique;Estudante+de+ADS;Apaixonado+por+Python+🐍)](https://git.io/typing-svg)
 
