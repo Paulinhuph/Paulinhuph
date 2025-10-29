@@ -4,8 +4,6 @@
 - 🚀 Building my portfolio on GitHub and growing with every challenge
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
-
 ## 👨‍💻 What I'm Learning
 - Programming logic
 - Python fundamentals
