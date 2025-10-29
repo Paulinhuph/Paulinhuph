@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Paulo Henrique!
+# Hello, I'm Paulo Henrique!
 🎓 Student of Systems Analysis and Development
 💻 Focused on Python, programming logic, and hands-on beginner projects
 🚀 Building my portfolio on GitHub and growing with every challenge
@@ -19,4 +19,3 @@ Passionate about programming, literature, biology, music (especially classical),
 I believe that the logic of code can speak to harmony — each line written is like a small experiment, part art, part science.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F700&center=true&vCenter=true&lines=Olá!+Sou+Paulo+Henrique;Estudante+de+ADS;Apaixonado+por+Python+🐍)](https://git.io/typing-svg)
-
