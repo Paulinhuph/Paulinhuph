@@ -12,7 +12,9 @@
 - Git e GitHub  
 - Modelagem de dados (em breve na faculdade!)
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+
 
 ## 🧠 Um pouco sobre mim
 Curioso por natureza, gosto de entender como as coisas funcionam e transformar ideias em código.  
