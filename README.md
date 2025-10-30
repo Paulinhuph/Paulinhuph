@@ -2,6 +2,7 @@
 - 🎓 Student of Systems Analysis and Development
 - 💻 Focused on Python, programming logic, and hands-on beginner projects
 - 🚀 Building my portfolio on GitHub and growing with every challenge
+- 👾 Gaming enthusiast.
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 ## 👨‍💻 What I'm Learning
