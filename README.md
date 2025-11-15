@@ -1,13 +1,19 @@
-# Hello, I'm Paulo Henrique!
-- 🎓 Student of Systems Analysis and Development
-- 💻 Focused on Python, programming logic, and hands-on beginner projects
-- 🚀 Building my portfolio on GitHub and growing with every challenge
-- 👾 Gaming enthusiast.
+
+##Olá, eu sou o Paulo Henrique!
+
+#🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+#💻 Focado em Python, lógica de programação e projetos práticos para iniciantes
+
+#🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio
+
+#👾 Entusiasta de games.
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-## 👨‍💻 What I'm Learning
-- Programming logic
-- Python fundamentals
+##👨‍💻 O que estou aprendendo
+- Lógica de programação
+- Banco de Dados
+- Fundamentos de Python
 - Git and GitHub
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
