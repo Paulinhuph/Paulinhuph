@@ -27,9 +27,7 @@ Acredito que a lógica do código conversa com a harmonia — cada linha escrita
 ---
 
 ## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhuph&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Onde me encontrar
-🔗 *Adicione aqui seu LinkedIn, Instagram ou email se quiser.*
