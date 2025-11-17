@@ -2,7 +2,7 @@
 # 👋 Olá, eu sou o Paulo Henrique!
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💻 Focado em**lógica de programação** e **projetos práticos da Faculdade**  
+💻 Focado em **lógica de programação** e **projetos práticos da Faculdade**  
 🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
 👾 Entusiasta de **games**
 
