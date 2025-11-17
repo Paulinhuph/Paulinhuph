@@ -2,7 +2,7 @@
 # 👋 Olá, eu sou o Paulo Henrique!
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💻 Focado em **Python**, **lógica de programação** e **projetos práticos da Faculdade**  
+💻 Focado em**lógica de programação** e **projetos práticos da Faculdade**  
 🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
 👾 Entusiasta de **games**
 
@@ -12,11 +12,11 @@
 
 ## 👨‍💻 O que estou aprendendo atualmente
 - Lógica de Programação  
-- Banco de Dados  
+- Banco de Dados
 - Fundamentos de Python  
 - Git e GitHub  
 - Python no VS Code  
-
+- MySQL Workbench 
 ---
 
 ## 🧠 Um pouco sobre mim
