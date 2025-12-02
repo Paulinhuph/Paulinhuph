@@ -29,5 +29,5 @@ Acredito que a lógica do código conversa com a harmonia — cada linha escrita
 ## 📊 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhuph&layout=compact&theme=tokyonight)
 
-Estudante do Curso Alura.
+
 
