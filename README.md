@@ -1,4 +1,5 @@
-### Olá! Sou o Paulo.
+### Olá! Sou o Paulo. <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6f7e82b7-1e80-4357-9d35-a2cb111d8c92" />
+
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 Focado em **lógica de programação** e **projetos práticos da Faculdade**  
 🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
@@ -25,7 +26,7 @@
 
 
 ## 🧠 Um pouco sobre mim
-Apaixonado por **programação, busco sempre o equilíbrio entre corpo, mente e criação.
+Apaixonado por programação, busco sempre o equilíbrio entre corpo, mente e criação.
 Acredito que a lógica do código conversa com a harmonia — cada linha escrita é como um pequeno experimento, parte arte, parte ciência.
 Sou Paulo Henrique, um desenvolvedor em formação apaixonado por transformar lógica em soluções reais. Estudo Python, JavaScript e fundamentos de desenvolvimento com foco em construir uma base sólida para atuar como dev backend.
 Trabalho em regime 12x36 na enfermagem, o que me ensinou disciplina, foco e resiliência — qualidades que levo diretamente para minha evolução na tecnologia. Mesmo com uma rotina intensa, mantenho constância nos estudos e no desenvolvimento de projetos, sempre buscando melhorar um pouco a cada dia.
