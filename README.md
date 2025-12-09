@@ -17,6 +17,8 @@
 - MySQL Workbench
 - JavaScript
   
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
@@ -29,9 +31,6 @@ Acredito que a lógica do código conversa com a harmonia — cada linha escrita
 
 ---
 
-## 📊 Linguagens mais usadas
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
 
