@@ -34,6 +34,7 @@ Tenho interesse especial em:
 - Estruturas de dados e lógica de programação
 - Automação e scripts em Python
 - Boas práticas de código e controle de versão
+  
 Minha meta é clara: construir uma carreira sólida na área de TI, aprendendo continuamente e contribuindo com projetos que façam diferença. Estou sempre aberto a conexões, feedbacks e novas oportunidades que me ajudem a crescer como profissional e como pessoa.
 
 
