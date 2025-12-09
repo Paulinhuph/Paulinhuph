@@ -29,9 +29,8 @@ Apaixonado por **programação, literatura, biologia, música (especialmente cl�
 
 Acredito que a lógica do código conversa com a harmonia — cada linha escrita é como um pequeno experimento, parte arte, parte ciência.
 
-![Sleep-deprived](https://img.shields.io/badge/Powered%20by-Coffee-brown)
-![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-500%2B%2Fmonth-critical)
-![Learning%20Curve-Vertical](https://img.shields.io/badge/Learning%20Curve-Vertical-blue)
+![gif descrição](https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif?utm_source=chatgpt.com)
+
 
 
 
