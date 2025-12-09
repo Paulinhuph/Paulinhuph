@@ -1,4 +1,6 @@
-### Olá! Sou o Paulo. <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6f7e82b7-1e80-4357-9d35-a2cb111d8c92" />
+### Olá! Sou o Paulo. 👋🙂
+
+<img width="105" height="1536" alt="image" src="https://github.com/user-attachments/assets/6f7e82b7-1e80-4357-9d35-a2cb111d8c92" />
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 Focado em **lógica de programação** e **projetos práticos da Faculdade**  
