@@ -1,6 +1,4 @@
-<h1 align="center">Olá, eu sou o Paulo! 👋</h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-
+### Olá! Sou o Paulo.
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 Focado em **lógica de programação** e **projetos práticos da Faculdade**  
 🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
@@ -35,6 +33,7 @@ Acredito que a lógica do código conversa com a harmonia — cada linha escrita
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F700&width=550&lines=Desenvolvedor+em+evolução!;Apaixonado+por+Python+🐍;Buscando+minha+primeira+vaga+em+TI)](https://git.io/typing-svg)
 
 
 
