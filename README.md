@@ -29,7 +29,7 @@
 ## 🧠 Um pouco sobre mim
 Apaixonado por programação, busco sempre o equilíbrio entre corpo, mente e criação.
 Acredito que a lógica do código conversa com a harmonia — cada linha escrita é como um pequeno experimento, parte arte, parte ciência.
-Sou Paulo Henrique, um desenvolvedor em formação apaixonado por transformar lógica em soluções reais. Estudo Python, JavaScript e fundamentos de desenvolvimento com foco em construir uma base sólida para atuar como dev backend.
+Sou Paulo Henrique, um desenvolvedor em formação apaixonado por transformar lógica em soluções reais. Estudo Python, JavaScript e fundamentos de desenvolvimento com foco em construir uma base sólida para atuar como dev FullStack.
 Trabalho em regime 12x36 na enfermagem, o que me ensinou disciplina, foco e resiliência — qualidades que levo diretamente para minha evolução na tecnologia. Mesmo com uma rotina intensa, mantenho constância nos estudos e no desenvolvimento de projetos, sempre buscando melhorar um pouco a cada dia.
 Tenho interesse especial em:
 - Desenvolvimento backend e Frontend
