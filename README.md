@@ -18,6 +18,8 @@
 - MySQL Workbench
 - JavaScript
 - Html e CSS
+- Pensamento Computacional e Algoritmo 
+- I.A, Eng. de Prompt e Aplicações em I.A
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
