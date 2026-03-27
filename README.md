@@ -3,23 +3,18 @@
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 Focado em **lógica de programação** e **projetos práticos da Faculdade**  
 🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
-👾 Entusiasta de **games**
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 ---
 
-## 👨‍💻 O que estou aprendendo atualmente
-- Lógica de Programação  
-- Banco de Dados
-- Fundamentos de Python  
-- Git e GitHub  
-- Python no VS Code  
-- MySQL Workbench
-- JavaScript
-- Html e CSS
-- Pensamento Computacional e Algoritmo 
-- I.A, Eng. de Prompt e Aplicações em I.A
+## 🧠 Stack atual
+Python (fundamentos + automação)
+Lógica de programação e algoritmos
+Git & GitHub (controle de versão)
+MySQL (modelagem e consultas)
+HTML e CSS (base para integração)
+Aplicações com IA (uso prático, engenharia de prompts, orquestração de fluxos e agentes e construção de agentes conversacionais)
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -34,10 +29,9 @@ Acredito que a lógica do código conversa com a harmonia, cada linha escrita é
 Sou Paulo Henrique, um desenvolvedor em formação apaixonado por transformar lógica em soluções reais. Estudo Python, JavaScript e fundamentos de desenvolvimento com foco em construir uma base sólida para atuar como dev back-end utilizando Python.
 Tenho bastante disciplina, foco e resiliência, qualidades que levo diretamente para minha evolução na tecnologia. Mesmo com uma rotina intensa, mantenho constância nos estudos e no desenvolvimento de projetos, sempre buscando melhorar um pouco a cada dia.
 Tenho interesse especial em:
-- Desenvolvimento backend e Frontend
+- Desenvolvimento backend e I.A aplicada.
 - Estruturas de dados e lógica de programação
 - Automação e scripts em Python
-- Aplicações em I.A
 - Boas práticas de código e controle de versão
   
 Minha meta é clara: construir uma carreira sólida na área de TI, aprendendo continuamente e contribuindo com projetos que façam diferença. Estou sempre aberto a conexões, feedbacks e novas oportunidades que me ajudem a crescer como profissional e como pessoa.
