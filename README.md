@@ -9,12 +9,12 @@
 ---
 
 ## 🧠 Stack atual
-Python (fundamentos + automação)
-Lógica de programação e algoritmos
-Git & GitHub (controle de versão)
-MySQL (modelagem e consultas)
-HTML e CSS (base para integração)
-Aplicações com IA (uso prático, engenharia de prompts, orquestração de fluxos e agentes e construção de agentes conversacionais)
+- Python (fundamentos + automação)
+- Lógica de programação e algoritmos
+- Git & GitHub (controle de versão)
+- MySQL (modelagem e consultas)
+- HTML e CSS (base para integração)
+- Aplicações com IA (uso prático, engenharia de prompts, orquestração de fluxos e agentes e construção de agentes conversacionais)
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
