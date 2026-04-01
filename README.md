@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Stack atual
+## - Stack atual
 - Python (fundamentos + automação)
 - Lógica de programação e algoritmos
 - Git & GitHub (controle de versão)
@@ -23,7 +23,7 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 
-## 🧠 Um pouco sobre mim
+## - Um pouco sobre mim
 Apaixonado por programação, busco sempre o equilíbrio entre corpo, mente e criação.
 Acredito que a lógica do código conversa com a harmonia, cada linha escrita é como um pequeno experimento, parte arte, parte ciência.
 Sou Paulo Henrique, um desenvolvedor em formação apaixonado por transformar lógica em soluções reais. Estudo Python, e fundamentos de desenvolvimento com foco em construir uma base sólida para atuar como dev back-end utilizando Python.
