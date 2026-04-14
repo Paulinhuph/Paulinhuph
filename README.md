@@ -1,43 +1,35 @@
-### Olá! Sou o Paulo. 👋🙂
+# Olá! Sou o Paulo Henrique 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💻 Focado em **lógica de programação** e **projetos práticos da Faculdade**  
-🚀 Construindo meu portfólio no GitHub e evoluindo a cada desafio  
+**Desenvolvedor de Software em formação**
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas robustas no backend e integrar Inteligência Artificial para resolver problemas complexos. Tenho disciplina rigorosa para o aprendizado contínuo e busco entregar código limpo, escalável e versionado.
 
----
+Minha transição da lógica acadêmica para aplicações de mercado envolve a orquestração de LLMs, criação de pipelines de automação e modelagem de dados eficiente.
 
-## - Stack atual
-- Python (fundamentos + automação)
-- Lógica de programação e algoritmos
-- Git & GitHub (controle de versão)
-- MySQL (modelagem e consultas)
-- HTML e CSS (base para integração)
-- Aplicações com IA (uso prático, engenharia de prompts, orquestração de fluxos e agentes e construção de agentes conversacionais)
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+### 🛠️ Stack Tecnológico
 
+* **Backend & Lógica:** Python, Estruturas de Dados, Algoritmos.
+* **Inteligência Artificial:** LangChain, LangGraph, RAG, Integração de LLMs Locais (LM Studio).
+* **Banco de Dados:** MySQL (Modelagem Relacional, DDL/DML, Views Analíticas).
+* **DevOps & Ferramentas:** Git, GitHub, Gerenciamento de Ambientes Virtuais (.env).
+* **Frontend (Integração):** HTML5, CSS3 e JS
 
-## - Um pouco sobre mim
-Apaixonado por programação, busco sempre o equilíbrio entre corpo, mente e criação.
-Acredito que a lógica do código conversa com a harmonia, cada linha escrita é como um pequeno experimento, parte arte, parte ciência.
-Sou Paulo Henrique, um desenvolvedor em formação apaixonado por transformar lógica em soluções reais. Estudo Python, e fundamentos de desenvolvimento com foco em construir uma base sólida para atuar como dev back-end utilizando Python.
-Tenho bastante disciplina, foco e resiliência, qualidades que levo diretamente para minha evolução na tecnologia. Mesmo com uma rotina intensa, mantenho constância nos estudos e no desenvolvimento de projetos, sempre buscando melhorar um pouco a cada dia.
-Tenho interesse especial em:
-- Desenvolvimento backend e I.A aplicada.
-- Estruturas de dados e lógica de programação
-- Automação e scripts em Python
-- Boas práticas de código e controle de versão
-  
-Minha meta é clara: construir uma carreira sólida na área de TI, aprendendo continuamente e contribuindo com projetos que façam diferença. Estou sempre aberto a conexões, feedbacks e novas oportunidades que me ajudem a crescer como profissional e como pessoa.
+### 🚀 O que estou construindo
 
+Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus principais focos são:
+* Desenvolvimento de APIs e scripts de automação em Python.
+* Orquestração de agentes conversacionais com memória de sessão e roteamento inteligente (LangGraph).
+* Integração de RAG (Retrieval-Augmented Generation) com bancos de dados relacionais para Business Intelligence.
 
-![gif descrição](https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif?utm_source=chatgpt.com)
+### 📈 Filosofia de Trabalho
+
+Trato a tecnologia com método e pragmatismo. Resiliência e foco são os pilares da minha rotina, garantindo que eu estude os fundamentos da computação sem perder de vista a aplicação prática no mercado atual.
+
+### 📬 Conecte-se comigo
+
+* **Portfólio:** [phdev-portfol.vercel.app](https://phdev-portfol.vercel.app)
+* *([Adicione o link do seu LinkedIn aqui](https://www.linkedin.com/in/paulo-henriqueph/))*
+* *(henriqyepaulo@gmail.com)*
 
 
 
