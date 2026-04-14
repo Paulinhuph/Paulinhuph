@@ -13,6 +13,7 @@ Minha transição da lógica acadêmica para aplicações de mercado envolve a o
 * **Banco de Dados:** MySQL (Modelagem Relacional, DDL/DML, Views Analíticas).
 * **DevOps & Ferramentas:** Git, GitHub, Gerenciamento de Ambientes Virtuais (.env).
 * **Frontend (Integração):** HTML5, CSS3 e JS
+* [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 O que estou construindo
 
