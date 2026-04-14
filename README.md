@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Teste de GIF" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRzc2hma2R2czEwNzZuZWh2aDA2em8yOTZ0aDA5OXR4ZmdjNGYxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NsBknNwmmWE8WU1q2U/giphy.gif" alt="Teste de GIF" width="600">
 </div>
 
 ---
