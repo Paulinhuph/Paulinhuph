@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src=(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFwcnhteHdwMDJ2ODBoNXg0aTR0OWNidnhwbG42bXI4cWRmOHNjcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NsBknNwmmWE8WU1q2U/giphy.gif)" alt="Abstract Data Flow" width="600px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFwcnhteHdwMDJ2ODBoNXg0aTR0OWNidnhwbG42bXI4cWRmOHNjcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NsBknNwmmWE8WU1q2U/giphy.gif" alt="Abstract Data Flow" width="600px">
 </p>
+
 ---
 
 ### 💻 Stack Tecnológico
