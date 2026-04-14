@@ -25,8 +25,10 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulinhuph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Paulinhuph">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulinhuph&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Linguagens"/>
+  </a>
 </div>
 
 ---
