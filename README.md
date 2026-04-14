@@ -6,7 +6,7 @@
   Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas e integrar Inteligência Artificial para resolver problemas complexos.
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulinhuph)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 💻 Stack Tecnológico
