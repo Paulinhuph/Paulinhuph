@@ -28,7 +28,7 @@ Trato a tecnologia com método e pragmatismo. Resiliência e foco são os pilare
 ### 📬 Conecte-se comigo
 
 * **Portfólio:** [phdev-portfol.vercel.app](https://phdev-portfol.vercel.app)
-* *([Adicione o link do seu LinkedIn aqui](https://www.linkedin.com/in/paulo-henriqueph/))*
+* *(https://www.linkedin.com/in/paulo-henriqueph/)*
 * *(henriqyepaulo@gmail.com)*
 
 
