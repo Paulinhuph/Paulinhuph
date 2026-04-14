@@ -7,8 +7,9 @@
 </p>
 
 ---
-
+<p align="center">
 ### 💻 Stack Tecnológico
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
