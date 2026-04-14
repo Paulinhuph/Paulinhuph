@@ -3,7 +3,7 @@
 <h3 align="center"> Desenvolvedor em formação </h3>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas robustas no backend e integrar Inteligência Artificial para resolver problemas complexos.
+  Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas e integrar Inteligência Artificial para resolver problemas complexos.
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,vscode" />
   </a>
 </p>
 <p align="left">
@@ -31,12 +31,12 @@
 
 ---
 
-### 🚀 O que estou construindo
+### 🚀 O que estou construindo e Estudando
 
 Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus principais focos são:
 * Desenvolvimento de APIs e scripts de automação em Python.
 * Orquestração de agentes conversacionais com memória de sessão (LangGraph).
-* Integração de RAG com bancos de dados relacionais para Business Intelligence.
+* Aplicações Web responsivas com HTMl, CSS e JS.
 
 ---
 
