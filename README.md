@@ -6,9 +6,11 @@
   Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas e integrar Inteligência Artificial para resolver problemas complexos.
 </p>
 
-![Abstract Data Flow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFwcnhteHdwMDJ2ODBoNXg0aTR0OWNidnhwbG42bXI4cWRmOHNjcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NsBknNwmmWE8WU1q2U/giphy.gif)
----
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Teste de GIF" width="600">
+</div>
 
+---
 ### 💻 Stack Tecnológico
 
 <p align="center">
