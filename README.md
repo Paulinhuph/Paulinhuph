@@ -25,13 +25,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/Paulinhuph">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulinhuph&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Top Linguagens"/>
-  </a>
   <img src="https://metrics.lecoq.io/Paulinhuph?template=classic" alt="Métricas do GitHub de Paulo" width="600"/>
 </div>
-
 ---
 
 ### 🚀 O que estou construindo e Estudando
