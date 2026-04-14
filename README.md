@@ -44,9 +44,8 @@ Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus princ
 * Aplicações Web responsivas com HTMl, CSS e JS.
 
 ---
-  <div align="center">
+  
 ### 📬 Conecte-se comigo
-  </div>
 <div align="center">
   <a href="https://linkedin.com/in/paulo-henriqueph" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
