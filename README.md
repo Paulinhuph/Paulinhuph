@@ -22,12 +22,19 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📡 Radar de Estudos Atual
 
+No momento, estou me aprofundando nos conceitos abaixo para elevar a qualidade do meu código:
+
+* 🧠 **Orquestração de LLMs:** Aprimorando fluxos com `LangGraph` e RAG semântico.
+* ⚙️ **Automação Híbrida:** Integrando scripts Python com plataformas Low-Code (`n8n` / `Make`).
+* 🗄️ **Otimização de Dados:** Criando Views Analíticas eficientes e modelagem de Banco de Dados com `MySQL` 
+* 🐍 **Fundamentos:** Estudo de Lógica com python `Python`.
+* 🌐 Desenvolvimento Web: Estruturação semântica e estilização de interfaces com `HTML` e `CSS` e lógica de programação com `JS`
+<br>
 <div align="center">
-  <img src="https://metrics.lecoq.io/Paulinhuph?template=classic" alt="Métricas do GitHub de Paulo" width="600"/>
+  <i>"A lógica do código é o alicerce; a arquitetura é o que o mantém de pé."</i>
 </div>
----
 
 ### 🚀 O que estou construindo e Estudando
 
