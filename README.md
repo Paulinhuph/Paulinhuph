@@ -36,7 +36,7 @@ No momento, estou me aprofundando nos conceitos abaixo para elevar a qualidade d
   <i>"A lógica do código é o alicerce; a arquitetura é o que o mantém de pé."</i>
 </div>
 
-### 🚀 O que estou construindo e Estudando
+### 🚀 O que estou construindo 
 
 Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus principais focos são:
 * Desenvolvimento de APIs e scripts de automação em Python.
