@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Sou o Paulo Henrique 👋 </h1>
 
-<h3 align="center"> Desenvolvedor de Software em formação </h3>
+<h3 align="center"> Desenvolvedor de Software em formação 💻 </h3>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas e integrar Inteligência Artificial para resolver problemas complexos.
