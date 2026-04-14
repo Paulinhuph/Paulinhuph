@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Sou o Paulo Henrique 👋 </h1>
 
-<h3 align="center"> Desenvolvedor Backend & Arquiteto de Agentes de IA em formação </h3>
+<h3 align="center"> Desenvolvedor em formação </h3>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas robustas no backend e integrar Inteligência Artificial para resolver problemas complexos.
