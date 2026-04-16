@@ -18,6 +18,7 @@
 <p align="left">
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white">
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white">
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 </p>
 ---
 
