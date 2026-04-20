@@ -44,7 +44,7 @@ Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus princ
 * Aplicações Web responsivas com HTMl, CSS e JS.
 
 ---
-https://api.github.com/repos/{Paulinhuph}/{repo}/languages
+
 ---
 
 ### 📬 Conecte-se comigo
