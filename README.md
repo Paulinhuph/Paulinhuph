@@ -45,7 +45,8 @@ Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus princ
 
 ---
 
-  ![Estatísticas de @Paulinhuph](https://github-readme-stats.vercel.app/api?username=Paulinhuph&show_icons=true&theme=radical)
+![Estatísticas de @Paulinhuph](https://github-readme-stats.vercel.app/api?username=Paulinhuph&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)
+
 
 ---
 
