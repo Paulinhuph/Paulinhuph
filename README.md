@@ -44,10 +44,7 @@ Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus princ
 * Aplicações Web responsivas com HTMl, CSS e JS.
 
 ---
-
-![Estatísticas de @Paulinhuph](https://github-readme-stats.vercel.app/api?username=Paulinhuph&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)
-
-
+https://api.github.com/repos/{Paulinhuph}/{repo}/languages
 ---
 
 ### 📬 Conecte-se comigo
