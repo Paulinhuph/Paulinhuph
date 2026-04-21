@@ -5,7 +5,11 @@
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas e integrar Inteligência Artificial para resolver problemas complexos.
 </p>
+
+
 https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact
+
+
 ---
 ### 💻 Stack Tecnológico
 
