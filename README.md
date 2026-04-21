@@ -34,7 +34,7 @@ No momento, estou me aprofundando nos conceitos abaixo para elevar a qualidade d
 
 * 🧠 **Orquestração de LLMs:** Aprimorando fluxos com `LangGraph` e RAG semântico.
 * ⚙️ **Automação Híbrida:** Integrando scripts Python com plataformas Low-Code (`n8n` / `Make`).
-* 🗄️ **Otimização de Dados:** Criando Views Analíticas eficientes e modelagem de Banco de Dados com `MySQL` 
+* 🗄️ **Modelagem de Dados Relacionais:** Experiência com `MySQL` para estruturação de sistemas robustos e `SQlite`  para soluções ágeis e embarcadas.
 * 🐍 **Fundamentos:** Estudo de Lógica e desenvolvimento Back-End com `Python`
 * 🌐 Desenvolvimento Web: Estruturação semântica e estilização de interfaces com `HTML` e `CSS` e lógica de programação com `JS`
 <br>
