@@ -6,7 +6,7 @@
   Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas e integrar Inteligência Artificial para resolver problemas complexos.
 </p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact)
+
 
 
 ---
@@ -22,8 +22,12 @@
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
----
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact" alt="Linguagens mais usadas" />
+</p>
+
+---
 ### 📡 Radar de Estudos Atual
 
 No momento, estou me aprofundando nos conceitos abaixo para elevar a qualidade do meu código:
