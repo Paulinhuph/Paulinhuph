@@ -69,10 +69,10 @@ paulo = {
  
 > Atualmente focado em **arquitetura Full-Stack integrando Inteligência Artificial** — sistemas que pensam, e agem de forma inteligente.
  
-| Área | Tecnologias | Status |
-|------|-------------|--------|
+| Área | Tecnologias |
+|------|-------------|
 | 🤖 Agentes Conversacionais com memória de sessão | LangGraph, LangChain | 
-| ⚡ APIs REST de automação | FastAPI, Python | 
+| ⚡ APIs REST | FastAPI, Python | 
 | 🌐 Interfaces Web responsivas | HTML, CSS, JavaScript | 
 | 🔗 Automação Híbrida Low-Code + Python | n8n / Make |  
  
