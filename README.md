@@ -1,7 +1,11 @@
+<div align="center">
+
 # Paulo Henrique
-### Desenvolvedor de Software · Al 
- 
+### Desenvolvedor de Software · Full-Stack & IA 
+
 *"A lógica do código é o alicerce; a arquitetura é o que o mantém de pé."*
+
+</div>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-henriqueph)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Henriqyepaulo@gmail.com)
