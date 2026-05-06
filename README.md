@@ -30,7 +30,7 @@ Apaixonado por **arquitetura de agentes autônomos**, automação e desenvolvime
 paulo = {
     "localização":   "Guarulhos, São Paulo 🇧🇷",
     "formação":      "Análise e Desenvolvimento de Sistemas",
-    "foco_atual":    ["Agentes LLM", "LangGraph", "FastAPI", "RAG"],
+    "foco_atual":    ["Desenvolvimento Full-Stack", "Agentes LLM", "LangGraph e LangChain em Python", "FastAPI", "RAG"],
     "disponível":    True
 }
 ```
@@ -65,14 +65,14 @@ paulo = {
  
 ## 🚀 O que estou construindo
  
-> Atualmente focado em **arquitetura de agentes autônomos** — sistemas que pensam, memorizam e agem de forma inteligente.
+> Atualmente focado em **arquitetura Full-Stack integrando Inteligência Artificial** — sistemas que pensam, e agem de forma inteligente.
  
 | Área | Tecnologias | Status |
 |------|-------------|--------|
-| 🤖 Agentes Conversacionais com memória de sessão | LangGraph, LangChain | 🔄 Em andamento |
-| ⚡ APIs REST de automação | FastAPI, Python | 🔄 Em andamento |
-| 🌐 Interfaces Web responsivas | HTML, CSS, JavaScript | 🔄 Em andamento |
-| 🔗 Automação Híbrida Low-Code + Python | n8n / Make + Scripts | 🔄 Em andamento |
+| 🤖 Agentes Conversacionais com memória de sessão | LangGraph, LangChain | 
+| ⚡ APIs REST de automação | FastAPI, Python | 
+| 🌐 Interfaces Web responsivas | HTML, CSS, JavaScript | 
+| 🔗 Automação Híbrida Low-Code + Python | n8n / Make |  
  
 ---
  
@@ -89,7 +89,7 @@ paulo = {
 **Aprofundamentos recentes:**
 - 🔍 **RAG Semântico** — Recuperação aumentada por embeddings para agentes mais precisos
 - 🕸️ **LangGraph** — Fluxos stateful com grafos para orquestração complexa de LLMs
-
+- 🌐 **Desenvolvimento Web** - Fundamentos, estruturação, escalabilidade e consumo de APIs
 ---
  
 ## 📊 GitHub Stats
@@ -115,7 +115,7 @@ Aberto a colaborações, projetos open-source e oportunidades de aprendizado.
  
 ---
  
-*Obrigado pela visita! ⭐ Se curtiu algum projeto, deixa uma estrela — significa muito!*
+*Obrigado pela visita!*
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Paulinhuph&color=0077B5&style=for-the-badge&label=VISITAS)
  
