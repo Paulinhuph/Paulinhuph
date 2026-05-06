@@ -61,6 +61,8 @@ paulo = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EF6421?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-EF6421?style=for-the-badge&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-EF6421?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ---
  
