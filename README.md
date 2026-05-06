@@ -60,7 +60,8 @@ paulo = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EF6421?style=for-the-badge&logo=n8n&logoColor=white)
- 
+![Figma](https://img.shields.io/badge/figma-EF6421?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
  
 ## 🚀 O que estou construindo
