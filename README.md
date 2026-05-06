@@ -24,13 +24,14 @@
  
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em construir infraestruturas inteligentes e integrar **Inteligência Artificial** para resolver problemas reais.
  
-Apaixonado por **arquitetura de agentes autônomos**, automação e desenvolvimento Full-Stack. Acredito que bom código é aquele que escala — e boa arquitetura é o que o mantém de pé.
+Apaixonado por **Desenvolvimento Full-Stack**, **arquitetura de agentes autônomos**, automação. Acredito que bom código é aquele que escala — e boa arquitetura é o que o mantém de pé.
  
 ```python
 paulo = {
     "localização":   "Guarulhos, São Paulo 🇧🇷",
     "formação":      "Análise e Desenvolvimento de Sistemas",
-    "foco_atual":    ["Desenvolvimento Full-Stack", "Agentes LLM", "LangGraph e LangChain em Python", "FastAPI", "RAG"],
+    "foco_atual":    ["Desenvolvimento Full-Stack", "Agentes LLMs", "LangGraph e LangChain em Python", "RAG"],
+    "estudo":        ["Aprofundando", "Front-End", "Back-End"],
     "disponível":    True
 }
 ```
@@ -92,6 +93,7 @@ paulo = {
 ```
  
 **Aprofundamentos recentes:**
+- 🐍 **Python** - Desenvolvimento back-end com Python
 - 🔍 **RAG Semântico** — Recuperação aumentada por embeddings para agentes mais precisos
 - 🕸️ **LangGraph** — Fluxos stateful com grafos para orquestração complexa de LLMs
 - 🌐 **Desenvolvimento Web** - Fundamentos, estruturação, escalabilidade e consumo de APIs
@@ -112,12 +114,7 @@ paulo = {
 ## 📬 Vamos conversar?
  
 Aberto a colaborações, projetos open-source e oportunidades de aprendizado.
- 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-henriqueph)
-[![Portfólio](https://img.shields.io/badge/Veja_meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phsystech.com.br)
-[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Henriqyepaulo@gmail.com)
- 
+
 ---
  
 *Obrigado pela visita!*
