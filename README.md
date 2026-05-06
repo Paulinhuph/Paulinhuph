@@ -113,7 +113,7 @@ paulo = {
  
 ## 📬 Vamos conversar?
  
-Aberto a colaborações, projetos open-source e oportunidades de aprendizado.
+Aberto a colaborações, projetos freelancer e oportunidades de estágios.
 
 ---
  
