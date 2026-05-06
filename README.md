@@ -9,7 +9,7 @@
 ```
  
 # Paulo Henrique
-### Desenvolvedor de Software · Arquiteto de Agentes IA
+### Desenvolvedor de Software · Al 
  
 *"A lógica do código é o alicerce; a arquitetura é o que o mantém de pé."*
  
