@@ -1,69 +1,125 @@
-<h1 align="center"> Olá! Sou o Paulo Henrique 👋 </h1>
-
-<h3 align="center"> Desenvolvedor de Software em formação 💻 </h3>
-
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas focado em construir infraestruturas e integrar Inteligência Artificial para resolver problemas complexos.
-</p>
-
-
-
-
----
-### 💻 Stack Tecnológico
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,vscode,vercel,figma,ai" />
-  </a>
-</p>
-<p align="left">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact" alt="Linguagens mais usadas" />
-</p>
-
----
-### 📡 Radar de Estudos Atual
-
-No momento, estou me aprofundando nos conceitos abaixo para elevar a qualidade do meu código:
-
-* 🧠 **Orquestração de LLMs:** Aprimorando fluxos com `LangGraph` e RAG semântico.
-* ⚙️ **Automação Híbrida:** Integrando scripts Python com plataformas Low-Code (`n8n` / `Make`).
-* 🗄️ **Modelagem de Dados Relacionais:** Experiência com `MySQL` para estruturação de sistemas robustos e `SQlite`  para soluções ágeis e embarcadas.
-* 🐍 **Fundamentos:** Estudo de Lógica e desenvolvimento Back-End com `Python`
-* 🌐 Desenvolvimento Web: Estruturação semântica e estilização de interfaces com `HTML` e `CSS` e lógica de programação com `JS`
-<br>
 <div align="center">
-  <i>"A lógica do código é o alicerce; a arquitetura é o que o mantém de pé."</i>
+```
+██████╗  █████╗ ██╗   ██╗██╗      ██████╗
+██╔══██╗██╔══██╗██║   ██║██║     ██╔═══██╗
+██████╔╝███████║██║   ██║██║     ██║   ██║
+██╔═══╝ ██╔══██║██║   ██║██║     ██║   ██║
+██║     ██║  ██║╚██████╔╝███████╗╚██████╔╝
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝
+```
+ 
+# Paulo Henrique
+### Desenvolvedor de Software · Arquiteto de Agentes IA
+ 
+*"A lógica do código é o alicerce; a arquitetura é o que o mantém de pé."*
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-henriqueph)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Henriqyepaulo@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phsystech.com.br)
+ 
+</div>
+---
+ 
+## 👤 Sobre mim
+ 
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em construir infraestruturas inteligentes e integrar **Inteligência Artificial** para resolver problemas reais.
+ 
+Apaixonado por **arquitetura de agentes autônomos**, automação e desenvolvimento back-end com Python. Acredito que bom código é aquele que escala — e boa arquitetura é o que o mantém de pé.
+ 
+```python
+paulo = {
+    "localização":   "Guarulhos, São Paulo 🇧🇷",
+    "formação":      "Análise e Desenvolvimento de Sistemas",
+    "foco_atual":    ["Agentes LLM", "LangGraph", "FastAPI", "RAG"],
+    "disponível":    True
+}
+```
+ 
+---
+ 
+## 🛠️ Stack Tecnológico
+ 
+### Linguagens & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ 
+### IA & Automação
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+ 
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
+### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF6421?style=for-the-badge&logo=n8n&logoColor=white)
+ 
+---
+ 
+## 🚀 O que estou construindo
+ 
+> Atualmente focado em **arquitetura de agentes autônomos** — sistemas que pensam, memorizam e agem de forma inteligente.
+ 
+| Área | Tecnologias | Status |
+|------|-------------|--------|
+| 🤖 Agentes Conversacionais com memória de sessão | LangGraph, LangChain | 🔄 Em andamento |
+| ⚡ APIs REST de automação | FastAPI, Python | 🔄 Em andamento |
+| 🌐 Interfaces Web responsivas | HTML, CSS, JavaScript | 🔄 Em andamento |
+| 🔗 Automação Híbrida Low-Code + Python | n8n / Make + Scripts | 🔄 Em andamento |
+ 
+---
+ 
+## 📡 Radar de Estudos
+ 
+```
+🧠 Orquestração de LLMs     █████████████████████ 100%
+⚙️  Automação Híbrida        ████████████░░░░░░░░  60%
+🗄️  Modelagem Relacional     ██████████████░░░░░░  70%
+🐍  Python Back-End          ████████████████░░░░  80%
+🌐  Desenvolvimento Web      ██████████████████░░  90%
+```
+ 
+**Aprofundamentos recentes:**
+- 🔍 **RAG Semântico** — Recuperação aumentada por embeddings para agentes mais precisos
+- 🕸️ **LangGraph** — Fluxos stateful com grafos para orquestração complexa de LLMs
+
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulinhuph&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinhuph&layout=compact&theme=tokyonight&hide_border=true)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=Paulinhuph&theme=tokyonight&hide_border=true)
+ 
+</div>
+---
+ 
+## 📬 Vamos conversar?
+ 
+Aberto a colaborações, projetos open-source e oportunidades de aprendizado.
+ 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-henriqueph)
+[![Portfólio](https://img.shields.io/badge/Veja_meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://phsystech.com.br)
+[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Henriqyepaulo@gmail.com)
+ 
+---
+ 
+*Obrigado pela visita! ⭐ Se curtiu algum projeto, deixa uma estrela — significa muito!*
+ 
+![Visitor Count](https://komarev.com/ghpvc/?username=Paulinhuph&color=0077B5&style=for-the-badge&label=VISITAS)
+ 
 </div>
 
-### 🚀 O que estou construindo 
-
-Atualmente, dedico meus estudos à arquitetura de agentes autônomos. Meus principais focos são:
-* Desenvolvimento de APIs e scripts de automação em Python.
-* Orquestração de agentes conversacionais com memória de sessão (LangGraph).
-* Aplicações Web responsivas com HTMl, CSS e JS.
-
----
-
----
-
-### 📬 Conecte-se comigo
-<div align="center">
-  <a href="https://linkedin.com/in/paulo-henriqueph" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:Henriqyepaulo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://phsystech.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23121212?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
-  </a>
-</div>
 
 
