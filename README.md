@@ -20,7 +20,7 @@
  
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em construir infraestruturas inteligentes e integrar **Inteligência Artificial** para resolver problemas reais.
  
-Apaixonado por **Desenvolvimento Full-Stack**, **arquitetura de agentes autônomos**, automação. Acredito que bom código é aquele que escala — e boa arquitetura é o que o mantém de pé.
+Apaixonado por **Desenvolvimento Full-Stack**, **Inteligência Artificial**, **arquitetura de agentes autônomos** e automação. Acredito que bom código é aquele que escala, e boa arquitetura é o que o mantém de pé.
  
 ```python
 paulo = {
