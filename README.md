@@ -45,8 +45,6 @@ paulo = {
 ### IA & Automação
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-003243?style=for-the-badge&logo=flask&logoColor=white)
 ![Hugging-Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
  
 ### Banco de Dados
@@ -65,6 +63,8 @@ paulo = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Colab](https://img.shields.io/badge/GoogleColab-34G445S?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
 
 ---
  
@@ -85,9 +85,9 @@ paulo = {
  
 ```
 🧠 Orquestração de LLMs     █████████████████████ 100%
-⚙️  Automação Híbrida        ████████████░░░░░░░░  60%
-🐍  Python Back-End          ████████████████░░░░  80%
-🌐  Desenvolvimento Web      ██████████████████░░  90%
+⚙️  Automação               ████████████░░░░░░░░  60%
+🐍  Python Back-End         ████████████████░░░░  80%
+🌐  Desenvolvimento Web     ██████████████████░░  90%
 ```
  
 **Aprofundamentos recentes:**
