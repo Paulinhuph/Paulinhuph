@@ -63,7 +63,7 @@ paulo = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Colab](https://img.shields.io/badge/GoogleColab-34G445S?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Railway](https://img.shields.io/badge/railway-34G4234?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 
 
