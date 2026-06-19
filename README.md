@@ -81,21 +81,31 @@ paulo = {
 | 🔗 Automação Híbrida Low-Code | n8n / Make |  
  
 ---
- 
-## 📡 Radar de Estudos
- 
-```
-🧠 Orquestração de LLMs     █████████████████████ 100%
-⚙️  Automação               ████████████░░░░░░░░  60%
-🐍  Python Back-End         ████████████████░░░░  80%
-🌐  Desenvolvimento Web     ██████████████████░░  90%
-```
- 
-**Aprofundamentos recentes:**
-- 🐍 **Python** - Desenvolvimento back-end com Python
-- 🕸️ **Fundamentos de Inteligência Artificial** — Orquestração complexa de LLMs, RAG, PLN, 
-- 🌐 **Desenvolvimento Web** - Fundamentos, estruturação, escalabilidade e consumo de APIs
----
+
+## 📚 Estudos & Aprofundamentos
+
+> Trilha de conhecimento atual — do fundamento à especialização.
+
+### 🌐 Full-Stack JavaScript / TypeScript
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🐍 Back-End & Inteligência Artificial (Python)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Banco de Dados & Infraestrutura
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
  
  
 ## 📬 Vamos conversar?
