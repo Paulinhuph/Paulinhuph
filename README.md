@@ -84,7 +84,7 @@ paulo = {
 
 ## 📚 Estudos & Aprofundamentos
 
-> Trilha de conhecimento atual — do fundamento à especialização.
+> Trilha de estudos e aprofundamento atual — do fundamento à especialização.
 
 ### 🌐 Full-Stack JavaScript / TypeScript
 
