@@ -67,19 +67,7 @@ paulo = {
 
 
 ---
- 
-## 🚀 O que estou construindo
- 
-> Atualmente focado em **arquitetura Full-Stack integrando Inteligência Artificial** — sistemas que pensam, e agem de forma inteligente.
- 
-| Área | Tecnologias |
-|------|-------------|
-| 🤖 Agentes Conversacionais com memória de sessão | LangGraph, LangChain | 
-| ⚡ APIs REST | FastAPI, Python | 
-| 🌐 Interfaces Web responsivas | HTML, CSS, JavaScript | 
-| 🔗 Automação Híbrida Low-Code | n8n / Make |  
- 
----
+
 
 ## 📚 Estudos & Aprofundamentos
 
