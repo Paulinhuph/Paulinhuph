@@ -1,6 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Paulo%20Henrique&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%">
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Paulo%20Henrique&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%">
 ### Desenvolvedor de Software · Full-Stack & IA 
 
 *"A lógica do código é o alicerce; a arquitetura é o que o mantém de pé."*
